@@ -50,8 +50,7 @@ By the end of this Specialization, you will have mastered key concepts and gaine
 <img src="/Coursera%206N84TBAZZPT3-1.png" width=60% height=60%>
 
 - [x] [__Advanced Learning Algorithms__]
-(https://github.com/tanvir1985/Machine_Learning_specialization_Andrew_Ng/blob/main/Coursera%20ZJWPLV33KWNR.pdf))
-
+(https://github.com/tanvir1985/Machine_Learning_specialization_Andrew_Ng/blob/main/Coursera%20ZJWPLV33KWNR-1.png)
 <p align="center">
-<img src="Coursera%20ZJWPLV33KWNR.pdf" width=60% height=60%>  
+<img src="Coursera%20ZJWPLV33KWNR-1.png" width=60% height=60%>  
 <p>&copy; 2022 Mohammad Tanvir Hossain </p>
