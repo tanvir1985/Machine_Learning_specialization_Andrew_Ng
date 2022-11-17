@@ -58,5 +58,5 @@ By the end of this Specialization, you will have mastered key concepts and gaine
 - [x] [__Unsupervised Learning, Recommenders, Reinforcement Learning__]
 (https://github.com/tanvir1985/Machine_Learning_specialization_Andrew_Ng/blob/main/Coursera%20FWLHLHVETGQN-1.png)
 <p align="center">
-<img src="Coursera%20ZJWPLV33KWNR-1.png" width=60% height=60%>  
+<img src="Coursera%20FWLHLHVETGQN-1.png" width=60% height=60%>  
 <p>&copy; 2022 Mohammad Tanvir Hossain </p>
