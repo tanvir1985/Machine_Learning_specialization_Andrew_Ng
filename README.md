@@ -42,15 +42,15 @@ By the end of this Specialization, you will have mastered key concepts and gaine
 
 ## 📙 Courses In Specilialization & certificates 
 
-[__Machine Learnintg__]
-(https://github.com/tanvir1985/Machine_Learning_specialization_Andrew_Ng/blob/main/Coursera%206N84TBAZZPT3-1.png)
+[__Machine Learning__]
+(https://github.com/tanvir1985/Machine_Learning_specialization_Andrew_Ng/blob/main/Certificate.png)
 <p align="center">
-<img src="/Coursera%206N84TBAZZPT3-1.png" width=60% height=60%>
+<img src="Certificate.png" width=60% height=60%>
 
 - [x] [__Supervised Machine Learning: Regression and Classification__]
 (https://github.com/tanvir1985/Machine_Learning_specialization_Andrew_Ng/blob/main/Coursera%206N84TBAZZPT3-1.png)
 <p align="center">
-<img src="/Coursera%206N84TBAZZPT3-1.png" width=60% height=60%>
+<img src="Coursera%206N84TBAZZPT3-1.png" width=60% height=60%>
 
 - [x] [__Advanced Learning Algorithms__]
 (https://github.com/tanvir1985/Machine_Learning_specialization_Andrew_Ng/blob/main/Coursera%20ZJWPLV33KWNR-1.png)
